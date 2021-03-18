@@ -7,7 +7,7 @@ CCTV-5,http://ott.js.chinamobile.com/PLTV/4/224/3221227686/index.m3u8
 CCTV5+,http://ott.js.chinamobile.com/PLTV/4/224/3221227685/index.m3u8
 CCTV-6,http://ott.js.chinamobile.com/PLTV/4/224/3221227430/index.m3u8
 CCTV-7,http://ott.js.chinamobile.com/PLTV/4/224/3221227314/index.m3u8
-CCTV-8,http://ottt.js.chinamobile.com/PLTV/4/224/3221227750/index.m3u8
+CCTV-8,http://ott.js.chinamobile.com/PLTV/4/224/3221227750/index.m3u8
 CCTV-9,http://ott.js.chinamobile.com/PLTV/4/224/3221227704/index.m3u8
 CCTV-10,http://ott.js.chinamobile.com/PLTV/4/224/3221227620/index.m3u8
 CCTV-11,http://ott.js.chinamobile.com/PLTV/4/224/3221227524/index.m3u8

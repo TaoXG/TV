@@ -57,7 +57,7 @@ CCTV-17,http://ott.js.chinamobile.com/PLTV/4/224/3221227578/index.m3u8
 凤凰资讯,http://ott.js.chinamobile.com/PLTV/4/224/3221228098/index.m3u8
 凤凰香港,http://ott.js.chinamobile.com/PLTV/4/224/3221228060/index.m3u8
 江苏城市,http://ott.js.chinamobile.com/PLTV/4/224/3221225929/index.m3u8
-江苏公共,http://ott.js.chinamobile.com/PLTV/4/224/3221225925/index.m3u8
+江苏公共新闻,http://ott.js.chinamobile.com/PLTV/4/224/3221225925/index.m3u8
 江苏综艺,http://ott.js.chinamobile.com/PLTV/4/224/3221225931/index.m3u8
 常州新闻,http://ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
 常州都市,http://ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8

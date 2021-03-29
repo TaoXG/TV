@@ -57,7 +57,7 @@ CCTV-17,http://ott.js.chinamobile.com/PLTV/4/224/3221227578/index.m3u8
 凤凰资讯,http://ott.js.chinamobile.com/PLTV/4/224/3221228098/index.m3u8
 凤凰香港,http://ott.js.chinamobile.com/PLTV/4/224/3221228060/index.m3u8
 江苏城市,http://ott.js.chinamobile.com/PLTV/4/224/3221225929/index.m3u8
-江苏公共,http://ott.js.chinamobile.com/PLTV/4/224/3221225925/index.m3u8
+江苏公共新闻,http://ott.js.chinamobile.com/PLTV/4/224/3221225925/index.m3u8
 江苏综艺,http://ott.js.chinamobile.com/PLTV/4/224/3221225931/index.m3u8
 常州新闻,http://ott.js.chinamobile.com/PLTV/4/224/3221227899/index.m3u8
 常州都市,http://ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
@@ -65,11 +65,11 @@ CCTV-17,http://ott.js.chinamobile.com/PLTV/4/224/3221227578/index.m3u8
 常州公共,http://ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
 4K,#genre#
 纯享4K,http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-SiTV欢笑剧场,http://ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 4K花园生活,http://ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 4K花园娱乐,http://ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园影视,http://ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 轮播,#genre#
+SiTV欢笑剧场,http://ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 SiTV全纪实,http://ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
 SiTV动漫秀场,http://ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 SiTV游戏风云,http://ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8

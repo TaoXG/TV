@@ -65,11 +65,11 @@ CCTV-17,http://223.110.246.74/ott.js.chinamobile.com/PLTV/4/224/3221227578/index
 常州公共,http://223.110.246.82/ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
 4K,#genre#
 纯享4K,http://183.207.249.205/ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
-SiTV欢笑剧场,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 4K花园生活,http://183.207.248.236/ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 4K花园娱乐,http://223.110.243.163/ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8
 4K花园影视,http://183.207.248.169/ott.js.chinamobile.com/PLTV/3/224/3221227813/index.m3u8
 轮播,#genre#
+SiTV欢笑剧场,http://223.110.243.153/ott.js.chinamobile.com/PLTV/3/224/3221227715/index.m3u8
 SiTV全纪实,http://183.207.248.198/ott.js.chinamobile.com/PLTV/3/224/3221227771/index.m3u8
 SiTV动漫秀场,http://223.110.245.146/ott.js.chinamobile.com/PLTV/3/224/3221227774/index.m3u8
 SiTV游戏风云,http://183.207.248.112/ott.js.chinamobile.com/PLTV/3/224/3221227713/index.m3u8

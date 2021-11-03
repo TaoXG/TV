@@ -15,6 +15,7 @@ CCTV-12,http://ott.js.chinamobile.com/PLTV/4/224/3221227637/index.m3u8
 CCTV-13,http://ott.js.chinamobile.com/PLTV/4/224/3221227387/index.m3u8
 CCTV-14,http://ott.js.chinamobile.com/PLTV/4/224/3221227693/index.m3u8
 CCTV-15,http://ott.js.chinamobile.com/PLTV/4/224/3221227538/index.m3u8
+CCTV-16HD,http://223.110.241.150:6610/gitv/live1/G_CCTV-16-CQ/G_CCTV-16-CQ
 CCTV-17,http://ott.js.chinamobile.com/PLTV/4/224/3221227578/index.m3u8
 卫视,#genre#
 江苏卫视,http://ott.js.chinamobile.com/PLTV/4/224/3221227689/index.m3u8

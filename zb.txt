@@ -65,7 +65,7 @@ CCTV-17,http://ott.js.chinamobile.com/PLTV/4/224/3221227578/index.m3u8
 常州生活,http://ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
 常州公共,http://ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
 4K,#genre#
-江苏,http://ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
+江苏4K,http://ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 纯享4K,http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8
 4K花园生活,http://ott.js.chinamobile.com/PLTV/3/224/3221227746/index.m3u8
 4K花园娱乐,http://ott.js.chinamobile.com/PLTV/3/224/3221227749/index.m3u8

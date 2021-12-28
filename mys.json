@@ -84,7 +84,7 @@
 
 	    {
       "key": "2345_spider",
-      "name": "2345影视(官源)      完整🔞福利接口请访问http://gg.gg/nihao ",
+      "name": "2345影视(官源)",
       "type": 3,
       "api": "csp_YS2345",
       "searchable": 1,
@@ -94,7 +94,7 @@
     },
     {
       "key": "360_spider",
-      "name": "360影视(官源)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "360影视(官源)",
       "type": 3,
       "api": "csp_YS360",
       "searchable": 1,
@@ -104,7 +104,7 @@
     },
     {
       "key": "飞速",
-      "name": "FEISU影视      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "FEISU影视",
       "type": 0,
       "api": "https://m3u8.feisuzyapi.com/vod/at/xml/",
       "playUrl": "https://www.feisuplayer.com/m3u8/?url=",
@@ -116,7 +116,7 @@
 
     {
       "key": "迅播",
-      "name": "迅播qgvod      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "迅播qgvod",
       "type": 0,
       "api": "https://www.qgvod.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jx.renrenmi.cc/?url=",

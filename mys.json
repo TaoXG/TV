@@ -3,7 +3,7 @@
 
     {
       "key": "csp_xpath_subb",
-      "name": "首页12月25日精简接口      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "首页12月25日精简接口",
       "type": 3,
       "api": "csp_XPathSubb",
       "searchable": 1,
@@ -18,7 +18,7 @@
 
 	    {
       "key": "番茄影视",
-      "name": "番茄影视     完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "番茄影视",
       "type": 0,
       "api": "https://tvcj.arbd.cn/api.php/provide/vod/at/xml/",
       "playUrl": "https://tv.arbd.cn/player/?url=",
@@ -33,7 +33,7 @@
 	
 	    {
       "key": "爱奇艺会员(官源)",
-      "name": "爱奇艺会员(官源)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "爱奇艺会员(官源)",
       "type": 0,
       "api": "http://api.000zy.com/provide/vod/from/qiyi/at/xml/",
       "searchable": 1,
@@ -42,7 +42,7 @@
     },
 		    {
       "key": "腾讯视频(官源)",
-      "name": "腾讯视频（官源)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "腾讯视频（官源)",
       "type": 0,
       "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/",
       "searchable": 1,
@@ -53,7 +53,7 @@
 	
 		    {
       "key": "芒果TV会员(官源)",
-      "name": "芒果TV会员(官源)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "芒果TV会员(官源)",
       "type": 0,
       "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/",
       "searchable": 1,
@@ -63,7 +63,7 @@
 	
 			    {
       "key": "搜狐视频会员(官源)",
-      "name": "搜狐视频会员(官源)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "搜狐视频会员(官源)",
       "type": 0,
       "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
       "searchable": 1,
@@ -126,7 +126,7 @@
     },
     {
       "key": "毒蜥蜴影视",
-      "name": "毒蜥蜴影视      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "毒蜥蜴影视",
       "type": 0,
       "api": "https://www.duxiyi.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jx.renrenmi.cc/?url=",
@@ -136,7 +136,7 @@
     },
     {
       "key": "我爱跟剧",
-      "name": "我爱跟剧      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "我爱跟剧",
       "type": 0,
       "api": "https://www.genmov.com/api.php/provide/vod/at/xml/",
       "playUrl": "https://jx.renrenmi.cc/?url=",
@@ -147,7 +147,7 @@
 
     {
       "key": "rrm_spider",
-      "name": "人人迷(免解）      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "人人迷(免解)",
       "type": 3,
       "api": "csp_Rrm",
       "searchable": 1,
@@ -159,7 +159,7 @@
    
     {
       "key": "csp_xpath_jpyszl",
-      "name": "极品直链(XPath)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "极品直链(XPath)",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -169,7 +169,7 @@
     },
     {
       "key": "csp_appys_xiaogui_007影视",
-      "name": "007影视(M)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "007影视(M)",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "csp_appys_xiaogui_555电影",
-      "name": "555电影(M)      完整🔞福利接口请访问http://gg.gg/nihao",
+      "name": "555电影(M)",
       "type": 3,
       "api": "csp_AppYs",
       "searchable": 1,

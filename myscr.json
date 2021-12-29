@@ -2,7 +2,7 @@
   "sites": [
    {
       "key": "csp_xpath_subb",
-      "name": "首页12月25日完整接口 如果资源不可用，请切换“首页数据源”    ",
+      "name": "首页12月29日完整接口 如果资源不可用，请切换“首页数据源”或切换网络    ",
       "type": 3,
       "api": "csp_XPathSubb",
       "searchable": 1,
@@ -11,7 +11,7 @@
       "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/subaibai.json"
     },
 {"key":"csp_YydsAli1","name":"YYDS阿里(爬蟲)测试","type":3,"api":"csp_YydsAli1","searchable":1,"quickSearch":0,"filterable":0},
-
+{"key":"buka_spider","name":"真不卡(部分地区可能无法播放)","type":3,"api":"csp_Buka","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"},
 
 
 
@@ -1322,16 +1322,6 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "v1_疯狂看"
-    },
-    {
-      "key": "csp_appys_v1_公主影视",
-      "name": "公主影视(M) ",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "v1_公主影视"
     },
     {
       "key": "csp_appys_v1_辉哥影视",
@@ -2856,16 +2846,8 @@
       "type": 1,
       "url": "https://api.parwix.com:4433/analysis/json/?uid=84&my=gijkmnouvxyFHPYZ28&url="
     },
-    {
-      "name": "筋斗云",
-      "type": 1,
-      "url": "https://vip.byteamone.cn/api/?key=6QbQClrF1qGZTK2W4w&url="
-    },
-    {
-      "name": "555电影",
-      "type": 1,
-      "url": "http://svip.jhdyw.vip:3456/jhjson.php?url="
-    },
+
+
     {
       "name": "黄河影视",
       "type": 1,
@@ -2876,11 +2858,7 @@
       "type": 1,
       "url": "https://api.zakkpa.com:8888/analysis/json/?uid=39&my=bdfinvyBCDEJKUY089&url="
     },
-    {
-      "name": "公主影视",
-      "type": 1,
-      "url": "http://jno.mshemvg.cn/?url="
-    },
+
     {
       "name": "手指影视1",
       "type": 1,
@@ -2891,61 +2869,20 @@
       "type": 1,
       "url": "https://json.pangujiexi.com:12345/json.php?url="
     },
-    {
-      "name": "艾特影视1",
-      "type": 1,
-      "url": "https://vip.byteamone.cn/api/?key=3YQRnznX6cf6IDFjVj&url="
-    },
+
     {
       "name": "雨果影视2",
       "type": 1,
       "url": "https://svip.renrenmi.cc:2222/api/?key=mtjJAJRXpwT5XAqWnn&url="
     },
-    {
-      "name": "宅男影院",
-      "type": 1,
-      "url": "http://vip.mengx.vip/home/api?type=ys&uid=1496242&key=cdhiCDFHPQRVZ02567&url="
-    },
+
     {
       "name": "小蜻蜓1",
       "type": 1,
       "url": "https://vip.parwix.com:4433/analysis/json/?uid=2206&my=hmqwABCHILMNTV5678&url="
     },
-    {
-      "name": "星月追剧",
-      "type": 1,
-      "url": "http://66.xingyueju.com/?url="
-    },
-    {
-      "name": "段友影视",
-      "type": 1,
-      "url": "https://v.jhdyw.vip/nhdz666/?url="
-    },
-    {
-      "name": "5060影院",
-      "type": 1,
-      "url": "https://vip.mengx.vip/home/api?type=ys&uid=18613&key=bknprsxCILRTUVYZ79&url="
-    },
-    {
-      "name": "飞英视频",
-      "type": 1,
-      "url": "https://api.phoves.com.cn/viphd2/api/api_fytt123.php?url="
-    },
-    {
-      "name": "九合视频1",
-      "type": 1,
-      "url": "https://jhjx.ptygx.com/tyjx.php/?url="
-    },
-    {
-      "name": "小强TV",
-      "type": 1,
-      "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=867242&key=cdeijlqrxyEHLQUX14&url="
-    },
-    {
-      "name": "快云影音1",
-      "type": 1,
-      "url": "https://jhjx.ptygx.com/tyjx.php?url="
-    },
+
+
     {
       "name": "Vip影院",
       "type": 1,
@@ -2956,11 +2893,7 @@
       "type": 1,
       "url": "https://api.m3u8.tv:5678/home/api?type=ys&uid=6493855&key=dghkqwxyBHIOX14568&url="
     },
-    {
-      "name": "可米影视",
-      "type": 1,
-      "url": "http://jx.kmysw.vip/json/?url="
-    },
+
     {
       "name": "段友影视",
       "type": 1,
@@ -2996,55 +2929,25 @@
       "type": 1,
       "url": "http://cygc.xyz:88/api/?key=uju6GVaLpIgZX2012r&url="
     },
-    {
-      "name": "宅男影院1",
-      "type": 1,
-      "url": "https://vip.rongxingvr.cn/api/?key=TjbT8ogE0sBCt8YA1U&url="
-    },
-    {
-      "name": "CJT影院",
-      "type": 1,
-      "url": "https://api.jiexi.one/api/?key=Sv5qJ05C6Oy62kCnEc&url="
-    },
+
+
     {
       "name": "玺心影视",
       "type": 1,
       "url": "https://ysjx.jikezhuji.com/api/?key=1fYn5Zz1XgNNl0DGTI&url="
     },
-    {
-      "name": "思奇影视2",
-      "type": 1,
-      "url": "http://a.aixixi.vip/?url="
-    },
-    {
-      "name": "小极影视",
-      "type": 1,
-      "url": "https://vip.byteamone.cn/api/?key=NGLfebFUsaoGOr3gaB&url="
-    },
+
+
     {
       "name": "土豆TV",
       "type": 1,
       "url": "https://cs.024zs.com:4433/api/?key=mqGHkqM4qxhV5ddEzg&url="
     },
-    {
-      "name": "皮皮影视",
-      "type": 1,
-      "url": "https://fast.rongxingvr.cn:8866/api/?key=2YP5jFSwnsDRCjX5pt&url="
-    },
+
     {
       "name": "雪人影视",
       "type": 1,
       "url": "https://svip.renrenmi.cc:2222/api/?key=S77lACKG9VTwNq5Upv&url="
-    },
-    {
-      "name": "小极影视1",
-      "type": 1,
-      "url": "https://vip.mengx.vip/home/api?type=ys&uid=1185697&key=bfinqsyzABEHJPUVY7&url="
-    },
-    {
-      "name": "南府影视2",
-      "type": 1,
-      "url": "http://111.67.194.94:4433/home/api?type=ys&uid=33008&key=ehlmstwAIQRUWXY268&url="
     }
   ],
   "flags": [

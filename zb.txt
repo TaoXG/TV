@@ -64,6 +64,8 @@ CCTV-17,http://ott.js.chinamobile.com/PLTV/4/224/3221227578/index.m3u8
 常州都市,http://ott.js.chinamobile.com/PLTV/4/224/3221227955/index.m3u8
 常州生活,http://ott.js.chinamobile.com/PLTV/4/224/3221227902/index.m3u8
 常州公共,http://ott.js.chinamobile.com/PLTV/4/224/3221227905/index.m3u8
+武进新闻,https://live.wjyanghu.com/live/CH1.m3u8?zjiangsd
+武进生活,https://live.wjyanghu.com/live/CH2.m3u8?zjiangsd
 4K,#genre#
 江苏4K,http://ott.js.chinamobile.com/PLTV/3/224/3221228113/index.m3u8
 纯享4K,http://ott.js.chinamobile.com/PLTV/3/224/3221227506/index.m3u8

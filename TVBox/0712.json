@@ -2,7 +2,7 @@
 {
 "spider":"https://raw.githubusercontents.com/TaoXG/TV/main/TVBox/0712.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW94Zy5naXRodWIuaW8vVFYvVFZCb3gvVFYvYmMudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnRzLmNvbS9UYW9YRy9UVi9tYWluL1RWQm94L1RWL2JjLnR4dA=="]}]}],
 
 
 "sites":[

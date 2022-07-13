@@ -16,9 +16,8 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
-  
   "sousuoqian": "/?c=search&wd=",
-  "sousuohou": "&limit=500",
+  "sousuohou": "&sort=addtime&order=desc&page=1",
   "sousuohouzhui": "/v_show/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",

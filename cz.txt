@@ -1,5 +1,5 @@
 央视,#genre#
-CCTV-1,http://223.110.246.73/ott.js.chinamobile.com/PLTV/4/224/3221227641/index.m3u8
+CCTV-1,http://223.110.246.80/ott.js.chinamobile.com/PLTV/4/224/3221227641/index.m3u8
 CCTV-2,http://223.110.246.83/ott.js.chinamobile.com/PLTV/4/224/3221227427/index.m3u8
 CCTV-3,http://223.110.246.68/ott.js.chinamobile.com/PLTV/4/224/3221227424/index.m3u8
 CCTV-4,http://223.110.246.81/ott.js.chinamobile.com/PLTV/4/224/3221227683/index.m3u8

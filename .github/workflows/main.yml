@@ -1,0 +1,41 @@
+name: 自动合并 a.txt 和 b.txt 生成 c.txt
+# 触发条件：当 a.txt 或 b.txt 被 push 或 PR 合并时
+on:
+  push:
+    paths:
+      - 'a.txt'
+      - 'b.txt'
+  pull_request:
+    paths:
+      - 'a.txt'
+      - 'b.txt'
+    types: [closed] # 仅当 PR 合并时触发（可选，避免 PR 未合并时重复生成）
+
+jobs:
+  merge-files:
+    runs-on: ubuntu-latest # 运行环境（免费的 Ubuntu 服务器）
+    steps:
+      # 步骤 1：拉取仓库最新代码
+      - name:  checkout 代码
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 拉取完整历史，确保能提交更改
+
+      # 步骤 2：合并 a.txt 和 b.txt 生成 c.txt
+      - name: 合并文件内容
+        run: |
+          # 读取 a.txt 和 b.txt，合并后写入 c.txt（a在前，b在后，中间空一行分隔）
+          cat a.txt > c.txt
+          echo "" >> c.txt # 可选：添加空行分隔两个文件内容
+          cat b.txt >> c.txt
+          echo "✅ 合并完成，c.txt 内容如下："
+          cat c.txt # 日志中显示 c.txt 内容，方便调试
+
+      # 步骤 3：自动提交 c.txt 到仓库
+      - name: 提交 c.txt 更改
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "auto: 合并 a.txt 和 b.txt 生成 c.txt" # 提交说明
+          file_pattern: "c.txt" # 仅提交 c.txt 的变动
+          commit_user_name: "GitHub Actions" # 提交者名称（可自定义）
+          commit_user_email: "actions@github.com" # 提交者邮箱（可自定义）

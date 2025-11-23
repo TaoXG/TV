@@ -26,7 +26,7 @@ jobs:
         run: |
           # 读取 HKG.txt 和 NRT.txt，合并后写入 ips.txt（a在前，b在后，中间空一行分隔）
           cat HKG.txt > ips.txt
-          # echo "" >> c.txt # 可选：添加空行分隔两个文件内容
+          echo "" >> c.txt # 可选：添加空行分隔两个文件内容
           cat NRT.txt >> ips.txt
           echo "✅ 合并完成，ips.txt 内容如下："
           cat ips.txt # 日志中显示 ips.txt 内容，方便调试
